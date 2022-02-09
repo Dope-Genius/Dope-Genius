@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Dope-Genius
-- 👀 I’m interested in ... Full Stack Web Development, UI/UX design, Python and JavaScript.
-- 🌱 I’m currently learning ... Javascript
+- 👋 Hi, I’m @Samuel Jarvis
+- 👀 I’m interested in ... Front End Web Development, JavaScript and Python.
+- 🌱 I’m currently learning ... React.js Framework
 - 💞️ I’m looking to collaborate on nothing for now. Im focusing on improving my  skills and freelancing 
 - 📫 How to reach me ... don't reach me
 
