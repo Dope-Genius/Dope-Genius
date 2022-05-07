@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Samuel Jarvis
 - 👀 I’m interested in ... Front End Web Development, JavaScript and Python.
 - 🌱 I’m currently learning ... React.js Framework
-- 💞️ I’m looking to collaborate on nothing for now. Im focusing on improving my  skills and freelancing 
-- 📫 How to reach me ... don't reach me
+- 💞️ I’m open to Freelance work, contract job, developer roles and questions on my projects
+- 📫 How to reach me ... Twitter @samjarvis244
 
 Thanks Bye.
 
